@@ -9,7 +9,7 @@ Strategy:
 
 def solve(n):
     """
-    add more
+    add more more
     Find binary string of length n that maximizes |f(S)|.
     
     Pattern analysis:
